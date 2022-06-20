@@ -53,7 +53,7 @@ public class BaiDuPanFetchCrack {
         System.setProperty("log4j2.AsyncQueueFullPolicy", "Synchronous");
 
         // 百度网盘的分享链接 形如 https://pan.baidu.com/s/1XXX
-        URI panUri = new URI("https://pan.baidu.com/s/1wZqE6mQDmqnIVtAF5dMdKQ");
+        URI panUri = new URI("https://pan.baidu.com/s/1NR7Dblr2xczh9gl5kaEwJQ");
 
         File passwordFile = new File("password.txt");
         File hasTestPasswordFile = new File("passwordHasTest.txt");
